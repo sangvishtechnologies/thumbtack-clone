@@ -14,6 +14,9 @@ Thumbtack is a famous online service platform that links customers with local se
 * **Communication Tools:** The integrated messaging system allows for easy contact between customers and vendors.
 * **Review & Rating System:** Users can submit reviews and ratings to help build trust and trustworthiness.
 * **Payment Processing:** A secure platform for processing payments between customers and providers.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“thumbtackclone.png" src="https://github.com/sangvishtechnologies/thumbtack-clone/blob/main/images/thumbtack-clone-.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
+
 ## The Benefits of a Thumbtack Clone Script for Your Business
 Here's why a Thumbtack clone app might be the ideal starting point for your on-demand service business:
 * **Reduced Development Time and Cost:** Creating a platform from scratch can be time-consuming and costly. Thumbtack clone software is a widely available and cost-effective alternative that allows you to start your business quickly.
@@ -29,6 +32,9 @@ While the[ thumbtack clone app ](https://sangvish.com/thumbtack-clone/)gives a g
 * **Monetization Strategies:** Move beyond transaction costs. Consider giving premium listings for service providers, in-app advertising, or subscription-based services to increase value.
 * **Community Building:** Create a sense of community by promoting user involvement through forums, discussion boards, or reward programs.
 * **Marketing and User Acquisition:** Create an effective marketing plan to attract customers and service providers to your platform. Use social media, search engine optimization (SEO), and targeted internet marketing to reach your specific audience.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“thumbtackclone.png" src="https://github.com/sangvishtechnologies/thumbtack-clone/blob/main/images/thumbtack-clone-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
+
 ## Building a Successful On-Demand Service Business: The Key Ingredients
 Remember, a[ Thumbtack clone software](https://sangvish.com/thumbtack-clone/) is only a solution. Here are the additional elements required for a strong on-demand service marketplace business:
 * **Quality Service Providers:** Rigorous screening and verification methods guarantee that your platform attracts and keeps top-tier expertise.
