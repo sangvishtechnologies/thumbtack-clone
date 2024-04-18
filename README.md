@@ -47,7 +47,7 @@ Are you prepared to launch your own service marketplace business? Look no furthe
 
 For further details about[ Thumbtack Clone](htt\ps://sangvish.com/thumbtack-clone/) and to experience a live demonstration, please reach out to us.
 
-Click here to explore a live demo of our Thumbtack clone, simplifying your service hiring needs with ease:[ https://sangvish.com/thumbtack-clone/](https://sangvish.com/thumbtack-clone/)
+Click here to explore a live demo of our Thumbtack clone, simplifying your service hiring needs with ease: https://sangvish.com/thumbtack-clone/#demo
 
 **Contact us,**
 
